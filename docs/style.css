@@ -3,8 +3,8 @@ text-align: center;
 font-size: 37px;
 }
 h3{
+    background-image: url(https://wallpaperaccess.com/full/656336.png);
     border-style: solid;
-    background-image: url(https://wallpaperaccess.com/full/1866348.jpg);
     border-radius: 100px;
 }
 a{
@@ -21,6 +21,5 @@ text-decoration-style: wavy;
 }
 li{
     border-style: solid;
-    background-image: url(https://wallpaperaccess.com/full/1866348.jpg);
     border-radius: 100px;
 }
