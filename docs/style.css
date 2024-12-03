@@ -6,3 +6,15 @@ h3{
     border-style: solid;
     border-radius: 100px;
 }
+a{
+color: #1e90ff;
+font-size: 20px;
+text-decoration-color: navy;
+text-decoration-style: none;
+}
+a:hover{
+color: crimson;
+font-size: 24px;
+text-decoration-color: navy;
+text-decoration-style: wavy;
+}
