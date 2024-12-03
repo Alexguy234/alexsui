@@ -4,7 +4,7 @@ font-size: 37px;
 }
 h3{
     border-style: solid;
-    border-image: link(https://wallpaperaccess.com/full/1866348.jpg);
+    border-image: url(https://wallpaperaccess.com/full/1866348.jpg);
     border-radius: 100px;
 }
 a{
