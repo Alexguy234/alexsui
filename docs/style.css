@@ -4,27 +4,23 @@ font-size: 37px;
 }
 h3{
     border-style: solid;
-    border-radius: 75px;
 }
 a{
-color: #1e90ff;
-font-size: 20px;
-text-decoration-color: navy;
+color: red;
 text-decoration: none;
+background-color: dodgerblue;
 border-style: solid;
 border-color: black;
 }
 a:hover{
-color: aliceblue;
-font-size: 24px;
-text-decoration-color: navy;
+background-color:aliceblue;
 text-decoration: none;
+color: red;
 border-style: solid;
 border-color: black;
 }
 li{
-    border-style: solid;
-    border-radius: 75px;
+
 }
 body{
 background-color: dodgerblue;
