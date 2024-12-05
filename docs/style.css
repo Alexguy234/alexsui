@@ -11,12 +11,16 @@ color: #1e90ff;
 font-size: 20px;
 text-decoration-color: navy;
 text-decoration: none;
+border-style: solid;
+border-color: black;
 }
 a:hover{
-color: crimson;
+color: aliceblue;
 font-size: 24px;
 text-decoration-color: navy;
-text-decoration-style: wavy;
+text-decoration: none;
+border-style: solid;
+border-color: black;
 }
 li{
     border-style: solid;
