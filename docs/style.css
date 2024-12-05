@@ -4,13 +4,13 @@ font-size: 37px;
 }
 h3{
     border-style: solid;
-    border-radius: 100px;
+    border-radius: 75px;
 }
 a{
 color: #1e90ff;
 font-size: 20px;
 text-decoration-color: navy;
-text-decoration-style: none;
+text-decoration: none;
 }
 a:hover{
 color: crimson;
@@ -20,8 +20,8 @@ text-decoration-style: wavy;
 }
 li{
     border-style: solid;
-    border-radius: 100px;
+    border-radius: 75px;
 }
 body{
-    background-image: url(https://unsplash.com/photos/aerial-photo-of-islet-5YdyZZWSJvk);
+background-color: dodgerblue;
 }
